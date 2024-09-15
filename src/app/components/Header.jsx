@@ -10,7 +10,7 @@ export default function Header() {
           height={80}
           alt="Lau's Paws logo"
         />
-    <span class="text-white text-3xl">LAU'S PAWS</span>
+    <span class="text-white text-3xl tracking-tighter font-semibold">LAU'S  PAWS</span>
     </div>
 
   </header>;
