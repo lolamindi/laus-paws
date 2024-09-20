@@ -2,8 +2,8 @@ export default function Home() {
   return (
     <>
       <div className="bg-puppies h-[600px] relative">
-        <article className="absolute inset-0 flex justify-center mt-16">
-          <div className="w-[55%] h-[45%] bg-white/30 backdrop-blur-sm p-6 rounded-md flex flex-col items-center justify-center">
+        <article className="absolute inset-0 flex justify-center mt-10">
+          <div className="w-[53%] h-[38%] bg-white/30 backdrop-blur-sm p-8 rounded-md flex flex-col items-center justify-center">
             <h1 className="text-4xl text-center text-pink-700 font-semibold">
               Home boarding and daycare for small to medium dogs
             </h1>
