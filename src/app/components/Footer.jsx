@@ -1,7 +1,9 @@
 export default function Footer() {
-  return <footer> 
-    <div class="bg-pink-200 h-16 flex items-center">
-    </div>
+  const currentYear = new Date().getFullYear();
 
-  </footer>;
+  return (
+    <footer className="bg-pink-200 h-16 flex items-center border-t-2 border-pink-500 p-4 text-gray-900">
+      © {currentYear}, Lau's Paws      
+    </footer>
+  );
 }
