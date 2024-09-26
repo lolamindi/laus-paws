@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import facebook from "";
 import instagram from "";
-import whatsapp from "";
+import whatsapp from "../../../public/assets/img/whatsapp.png";
 
 
 export default function SocialNavBar() {
