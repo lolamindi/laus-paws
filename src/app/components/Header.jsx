@@ -3,8 +3,7 @@ import logo_writing from "../../../public/assets/img/logo writing.png"
 import Image from "next/image";
 
 export default function Header() {
-  return <header> 
-    <div class="bg-pink-500 h-20 flex items-center">
+  return <header class="bg-pink-500 h-20 flex items-center">
     <Image class=""
           src={logo}
           width={80}
@@ -17,7 +16,5 @@ export default function Header() {
           height={300}
           alt="Lau's Paws logo"
         />
-    </div>
-
   </header>;
 }
