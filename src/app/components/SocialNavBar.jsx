@@ -1,21 +1,20 @@
 import Link from "next/link";
 import Image from "next/image";
-import facebook from "";
-import instagram from "";
+import facebook from "../../../public/assets/img/facebook.png";
+import instagram from "../../../public/assets/img/instagram.png";
 import whatsapp from "../../../public/assets/img/whatsapp.png";
 
 
 export default function SocialNavBar() {
   return (
-    <nav className>
-      <ul className>
+    <nav>
+      <ul className="flex gap-4">
         <li>
           <Link href="https://www.facebook.com/LausPawsIbstock/" target="_blank">
             <Image
-              className={facebookLogo}
               src={facebook}
-              width={17}
-              height={17}
+              width={28}
+              height={28}
               alt="facebook icon"
             />
           </Link>
@@ -23,10 +22,9 @@ export default function SocialNavBar() {
         <li>
           <Link href="https://www.instagram.com/laus_paws/" target="_blank">
             <Image
-              className={instagramLogo}
               src={instagram}
-              width={18}
-              height={18}
+              width={26}
+              height={26}
               alt="instagram icon"
             />
           </Link>
@@ -34,10 +32,9 @@ export default function SocialNavBar() {
         <li>
           <Link href="https://wa.me/447726339108" target="_blank">
             <Image
-              className={whatsAppLogo}
               src={whatsapp}
-              width={18}
-              height={18}
+              width={25}
+              height={25}
               alt="whatsapp icon"
             />
           </Link>
