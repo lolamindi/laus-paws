@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function SocialNavBar() {
   return (
 <nav className>
-<ul className="flex gap-10 text-white ml-[750px]">
+<ul className="flex gap-10 text-white font-semibold text-lg ml-[700px]">
   <li>
     <Link href="/about">ABOUT</Link>
   </li>

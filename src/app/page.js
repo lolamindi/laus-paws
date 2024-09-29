@@ -7,7 +7,7 @@ export default function Home() {
             <h1 className="text-4xl text-center text-pink-700 font-semibold">
               Home boarding and daycare for small to medium dogs
             </h1>
-            <button className="bg-pink-500 w-40 h-10 rounded-md mt-6 flex items-center justify-center">
+            <button className="bg-pink-600 w-40 h-10 rounded-md mt-6 flex items-center justify-center">
               <span className="text-white text-center text-xl">Get in touch</span>
             </button>
           </div>
