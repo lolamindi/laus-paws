@@ -6,7 +6,7 @@ import NavBar from "../../app/components/NavBar.jsx"
 
 export default function Header() {
   return (
-    <header className="bg-pink-500 h-20 flex items-center">
+    <header className="bg-pink-600 h-20 flex items-center">
       <Link href="/">
         <Image 
         src={logo} 
