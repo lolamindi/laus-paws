@@ -1,3 +1,7 @@
 export default function Reviews() {
-  return
+  return(
+  <>
+      <div className="min-h-screen"></div>
+      </>
+      );
 }
