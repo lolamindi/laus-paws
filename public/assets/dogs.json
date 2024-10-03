@@ -1,0 +1,22 @@
+{
+  "dogs": [
+    {
+      "id": 0,
+      "dog_name": "Zoe",
+      "review": "I love staying with Laura and Lila. Laura always takes good care of me and lets me sleep on her bed and I always have lots of fun playing with Lila. Going to Laura's house to stay is my favourite!",
+      "image": "../../../public/assets/img/review-dog1.jpg"
+    },
+    {
+      "id": 1,
+      "dog_name": "Bailey",
+      "review": "Staying with Laura and Lila is the best! Laura always takes me out for walkies and I have fun playing with Lila and running with her in the fields near her house, it's like being at home with my family but better.",
+      "image": "../../../public/assets/img/review-dog2.jpg"
+    },
+    {
+      "id": 2,
+      "dog_name": "Coco",
+      "review": "Whether I stay overnight or just during the day, Laura's house is always special and lots of fun. Sometimes Lila and I get up to mischief but Laura always tells me how much she misses me when I'm not around.",
+      "image": "../../../public/assets/img/review-dog3.jpg"
+    }
+  ]}
+    
