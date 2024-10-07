@@ -1,14 +1,14 @@
 import Image from "next/image";
 import { dogs } from "../../../public/assets/dogs.json";
 
-export default function DogReviewCard({ dogs }) {
+export default function DogReviewCard({ dog }) {
   return (
     <article>
       <Image
-        src={dogs.image}
+        src= "/assets/img/review-dog1.jpg"
         width={350}
         height={200}
-        alt={`${dogs.dog_name}`} 
+        alt={`small dog`} 
       />
     </article>
   );
