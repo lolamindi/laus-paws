@@ -7,7 +7,7 @@ export default function Reviews({ dogs = dogData }) {
       <section className="grid grid-cols-3 gap-x-16 gap-y-8 my-10">
         <ul className="contents">
           {dogs.map((dog) => (
-            <li key={dog.id} className="flex flex-col items-center border-2 border-pink-700 p-4 bg-white">
+            <li key={dog.id} className="flex flex-col items-center rounded-lg border-2 border-pink-700 p-4 bg-white">
               <article>
                 <Image className="pb-2"
                   src={dog.image}
