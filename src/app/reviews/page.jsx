@@ -5,8 +5,8 @@ import Image from "next/image";
 export default function Reviews({ dogs = dogData }) {
   return (
     <main className="flex justify-center items-center min-h-screen">
-      <div className="grid grid-cols-3 grid-rows-2 gap-x-10 gap-y-20 py-20">
-        <section>
+      <section className="grid grid-cols-3 grid-rows-2 gap-x-10 gap-y-20 py-20">
+        <article>
           <h1>Dog Reviews</h1>
           <ul>
             {dogs.map((dog) => (
@@ -23,8 +23,8 @@ export default function Reviews({ dogs = dogData }) {
               </li>
             ))}
           </ul>
-        </section>
-      </div>
+        </article>
+      </section>
     </main>
   );
 }
