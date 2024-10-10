@@ -7,16 +7,16 @@ export default function Reviews({ dogs = dogData }) {
       <section className="grid grid-cols-3 gap-x-16 gap-y-8 my-10">
         <ul className="contents">
           {dogs.map((dog) => (
-            <li key={dog.id} className="flex flex-col items-center border-2 border-pink-700 p-4 bg-white">
+            <li key={dog.id} className="flex flex-col items-center rounded-lg border-2 border-pink-700 p-4 bg-white">
               <article>
-                <Image className="pb-2"
+                <Image className="pb-2 h-[243px]"
                   src={dog.image}
                   width={325}
-                  height={200}
+                  height={243}
                   alt={`small dog called ${dog.dog_name}`}
                 />
-                <span className="font-semibold text-lg pb-2">{dog.dog_name}</span>
-                <p className="w-[325px]">{dog.review}</p>
+                <span className="font-semibold text-lg">{dog.dog_name}</span>
+                <blockquote className="w-[325px] border-t-2 pt-1 border-pink-800">&ldquo;{dog.review}&rdquo;</blockquote>
               </article>
             </li>
           ))}
