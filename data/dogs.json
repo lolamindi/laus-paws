@@ -3,7 +3,7 @@
     {
       "id": 0,
       "dog_name": "Bailey",
-      "review": "Staying with Laura and Lila is the best! I love playing with Lila and running with her in the fields near her house, it's like being at home with my family but better.",
+      "review": "Staying with Laura and Lila is great! I love playing with Lila and running with her in the fields near her house, it's like being at home with my family but better.",
       "image": "/assets/img/review-dog2.jpg"
     },
     {
@@ -33,7 +33,7 @@
     {
       "id": 6,
       "dog_name": "Eddie",
-      "review": "Laura's house is near my favourite woods where there are lots of squirrels to chase and sticks to find. It's great getting to stay there when my mum is away.",
+      "review": "Laura's house is near my favourite woods where there are lots of squirrels to chase and sticks to find. I love getting to stay there when my mum is away.",
       "image": "/assets/img/review-dog6.jpg"
     }
   ]
