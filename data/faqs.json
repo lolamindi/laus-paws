@@ -1,0 +1,65 @@
+{
+    "sections": [
+      {
+        "heading": "Bookings and Availability",
+        "items": [
+          {
+            "id": 0,
+            "question": "How can I book a stay with Lau's Paws?",
+            "answer": "The best way to get in touch is via the form on our contact page. Alternatively, you can make a booking via WhatsApp or with a Facebook message."
+          },
+          {
+            "id": 1,
+            "question": "How far in advance do I need to book?",
+            "answer": "Many clients book months in advance but if you can only book a few weeks in advance we'll always try to accommodate you if we have space. That said, you should book as far in advance as possible, especially for busier periods such as weekends, school holidays, and special dates such as Christmas and New Year."
+          },
+          {
+            "id": 2,
+            "question": "Can I schedule a meet-and-greet before booking?",
+            "answer": "Once availability has been confirmed, it is our policy to always have a meet-and-greet before any new booking."
+          },
+          {
+            "id": 3,
+            "question": "Does my dog need to have a trial stay?",
+            "answer": "Yes, all new bookings must have a trial stay to make sure your dog is a good fit for Lau's Paws. We can then arrange a daytime or overnight trial stay on a date that's convenient for both parties. Standard rates apply and are non-refundable."
+          },
+          {
+            "id": 4,
+            "faq_question": "Do I have to pay a deposit to reserve a stay?",
+            "faq_answer": "Yes, you'll need to pay 25% of the cost of the total stay to secure your booking. This deposit is non-refundable."
+          }
+          ]
+        },
+        {
+        "heading": "Care and Comfort",
+        "items": [
+          {
+            "id": 5,
+            "question": "?",
+            "answer": "."
+          },
+          {
+            "id": 6,
+            "question": "?",
+            "answer": "."
+          },
+          {
+            "id": 7,
+            "question": "?",
+            "answer": "."
+          },
+          {
+            "id": 8,
+            "question": "?",
+            "answer": "."
+          }
+
+        ]
+      }
+    ]
+  }
+
+    
+
+
+    
