@@ -31,27 +31,52 @@
           ]
         },
         {
-        "heading": "Care and Comfort",
+        "heading": "Requirements and Regulations",
         "items": [
           {
             "id": 5,
-            "question": "?",
-            "answer": "."
-          },
-          {
+            "question": "Do you accept large breed dogs?",
+            "answer": "No, we only accept small to medium-sized dogs. If you're unsure whether your breed qualifies as medium, please get in touch to check."
+            },
+            {
             "id": 6,
-            "question": "?",
-            "answer": "."
-          },
-          {
+            "question": "Do you have age restrictions for dogs?",
+            "answer": "Unfortunately I cannot accept puppies under one year of age. My dog Lila is very friendly and patient but she is now 10 and prefers to share her home with calmer canine companions."
+            },
+            {
             "id": 7,
-            "question": "?",
-            "answer": "."
+            "question": "How many dogs can stay at the same time?",
+            "answer": "My licence allows me to have three boarders and my own dog, Lila, at the same time. This guarantees your dog lots more attention and comfort than commercial dog-boarding centres, but means they get the opportunity to play and socialise too."
+            },
+            {
+            "id": 8,
+            "question": "Does my dog need to be house-trained?",
+            "answer": "Yes, we only accept fully house-trained dogs. This ensures a clean and comfortable environment for all dogs staying with us."
+            }
+          ]
+        },
+        {
+        "heading": "Care and Comfort",
+        "items": [
+          {
+            "id": 9,
+            "question": "What is the daily routine for the dogs in your care?",
+            "answer": "Our days usually start with a toilet trip to the garden, followed by breakfast and a morning walk in one of the open spaces near my home. After lunch, the dogs are free to nap or play, then we go out in the afternoon for a second walk before dinner and finish the day with snuggles on the sofa before bed."
           },
           {
-            "id": 8,
-            "question": "?",
-            "answer": "."
+            "id": 10,
+            "question": "Where will my dog sleep?",
+            "answer": "My dog Lila sleeps in bed with me and any dogs in my care are welcome to do the same. If you'd prefer, however, they can sleep anywhere in my home, such as on the sofa, curled up in a doggie bed in the living room, or even in the kitchen."
+          },
+          {
+            "id": 11,
+            "question": "Do I need to provide my dog's food?",
+            "answer": "Food is included in the price of boarding. That said, if you dog follows a particular diet and has their own special food then you would need to provide enough for the length of their stay when dropping them off."
+          },
+          {
+            "id": 12,
+            "question": "Will my dog get one-on-one attention during their stay?",
+            "answer": "Absolutely! Since Lau's Paws can only welcome three boarders at a time, we can give each dog plenty of individual attention, playtime, and affection throughout the day. We make sure to understand each dog’s personality and needs to create a safe and enjoyable experience for everyone."
           }
 
         ]
