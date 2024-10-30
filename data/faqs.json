@@ -11,7 +11,7 @@
           {
             "id": 1,
             "question": "How far in advance do I need to book?",
-            "answer": "Many clients book months in advance but if you can only book a few weeks in advance we'll always try to accommodate you if we have space. That said, you should book as far in advance as possible, especially for busier periods such as weekends, school holidays, and special dates such as Christmas and New Year."
+            "answer": "Many clients book months in advance but if you can only book a few weeks in advance we'll always try to accommodate you if we have space. That said, you should book as far in advance as possible, especially for busier periods such as weekends, school holidays, and special dates like Christmas and New Year."
           },
           {
             "id": 2,
@@ -29,34 +29,34 @@
             "faq_answer": "Yes, you'll need to pay 25% of the cost of the total stay to secure your booking. This deposit is non-refundable."
           }
           ]
-        },
-        {
+          },
+          {
         "heading": "Requirements and Regulations",
         "items": [
           {
             "id": 5,
-            "question": "Do you accept large breed dogs?",
-            "answer": "No, we only accept small to medium-sized dogs. If you're unsure whether your breed qualifies as medium, please get in touch to check."
-            },
-            {
-            "id": 6,
-            "question": "Do you have age restrictions for dogs?",
-            "answer": "Unfortunately I cannot accept puppies under one year of age. My dog Lila is very friendly and patient but she is now 10 and prefers to share her home with calmer canine companions."
-            },
-            {
-            "id": 7,
             "question": "How many dogs can stay at the same time?",
             "answer": "My licence allows me to have three boarders and my own dog, Lila, at the same time. This guarantees your dog lots more attention and comfort than commercial dog-boarding centres, but means they get the opportunity to play and socialise too."
             },
-            {
+          {
+            "id": 6,
+            "question": "Do you accept large breed dogs?",
+            "answer": "No, we only accept small to medium-sized dogs. If you're unsure whether your breed qualifies as medium, please get in touch to check."
+          },
+          {
+            "id": 7,
+            "question": "Do you have age restrictions for dogs?",
+            "answer": "Unfortunately I cannot accept puppies under one year of age. My dog Lila is very friendly and patient but she is now 10 and prefers to share her home with calmer canine companions."
+          },
+          {
             "id": 8,
             "question": "Does my dog need to be house-trained?",
             "answer": "Yes, we only accept fully house-trained dogs. This ensures a clean and comfortable environment for all dogs staying with us."
-            }
-          ]
-        },
-        {
-        "heading": "Care and Comfort",
+          }
+         ]
+          },
+          {
+        "heading": "Care and Home Environment",
         "items": [
           {
             "id": 9,
@@ -75,14 +75,83 @@
           },
           {
             "id": 12,
-            "question": "Will my dog get one-on-one attention during their stay?",
-            "answer": "Absolutely! Since Lau's Paws can only welcome three boarders at a time, we can give each dog plenty of individual attention, playtime, and affection throughout the day. We make sure to understand each dog’s personality and needs to create a safe and enjoyable experience for everyone."
-          }
-
+            "question": "Is your home secure and dog-proof?",
+            "answer": "Yes, as a dog parent myself I have everything in place to make sure my home is safe and dog-proof. Security measures include a back garden with high fencing, locks on all my doors and windows, and gates at the top and bottom of my stairs."
+          },
+          {
+            "heading": "Health and Safety",
+            "items": [
+              {
+                "id": 13,
+                "question": "Are you trained in dog first aid?",
+                "answer": "Yes I am fully trained in dog first aid and have the certification to prove it. Let me know if you would like to view a copy of this documentation and I'll be happy to provide it for you."
+              },
+              {
+                "id": 14,
+                "question": "What happens if my dog becomes ill during their stay?",
+                "answer": "I will inform you immediately if your dog becomes ill while in the care of Lau's Paws. Depending on the severity of the case we can then decide on the best course of action to ensure their comfort and safety."
+              },
+              {
+                "id": 15,
+                "question": "Do you require proof of vaccinations?",
+                "answer": "Yes, all dogs must be fully vaccinated with proof of vaccinations before staying with Lau's Paws."
+              },
+              {
+                "id": 16,
+                "question": "Does my dog need to be vaccinated against kennel cough?",
+                "answer": "We prefer dogs to be vaccinated against kennel cough but it is not mandatory.."
+              },
+              {
+                "heading": "Pricing and Payment",
+                "items": [
+                  {
+                    "id": 17,
+                    "question": "What are you rates for boarding?",
+                    "answer": "A full list of the current Lau's Paws rates can be found on the Prices page of this website."
+                  },
+                  {
+                    "id": 18,
+                    "question": "Do you offer discounts for longer stays or regular bookings?",
+                    "answer": "Stays for longer than a 24-hour period are charged at the reduced day rate rather than the usual overnight rate. If you would like to schedule a regular booking please get in touch with more details to see if we can come to an agreement."
+                  },
+                  {
+                    "id": 19,
+                    "question": "What is your cancellation policy?",
+                    "answer": "There is no charge for cancellations prior to 24 hours before the arranged stay, although we would have to keep the deposit. For cancellations less than 24 hours before, we require either the full payment or the price of an overnight stay, whichever is less."
+                  },
+                  {
+                    "id": ,
+                    "question": "?",
+                    "answer": "."
+                  },
+                  {
+                    "heading": "",
+                    "items": [
+                      {
+                        "id": ,
+                        "question": "?",
+                        "answer": ""
+                      },
+                      {
+                        "id": ,
+                        "question": "?",
+                        "answer": "."
+                      },
+                      {
+                        "id": ,
+                        "question": "?",
+                        "answer": "."
+                      },
+                      {
+                        "id": ,
+                        "question": "?",
+                        "answer": "."
+                      }
         ]
       }
     ]
   }
+
 
     
 
