@@ -5,8 +5,8 @@ export default function Reviews({ dogs = dogData }) {
   return (
     <main className="relative flex justify-center items-center min-h-screen bg-[#edd4cd]">
       <section className="absolute top-4 left-14 p-6 text-gray-800">
-        <h1 className="text-2xl font-bold pb-2">Reviews</h1>
-        <p className="text-left w-[97%] text-lg">
+        <h1 className="text-2xl font-bold pb-2">REVIEWS</h1>
+        <p className="text-left w-[95%] text-lg">
           Welcome to the Lau's Paws reviews page! You can read the&nbsp;
           <a
             href="https://www.facebook.com/LausPawsIbstock/reviews"

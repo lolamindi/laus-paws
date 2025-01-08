@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "heading": "Bookings & Availability",
+      "heading": "BOOKINGS & AVAILABILITY",
       "items": [
         {
           "id": 0,
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "heading": "Requirements & Regulations",
+      "heading": "REQUIREMENTS & REGULATIONS",
       "items": [
         {
           "id": 5,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "heading": "Care & Home Environment",
+      "heading": "CARE & HOME ENVIRONMENT",
       "items": [
         {
           "id": 9,
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "heading": "Health and Safety",
+      "heading": "HEALTH & SAFETY",
       "items": [
         {
           "id": 13,
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "heading": "Pricing & Payment",
+      "heading": "PRICING & PAYMENT",
       "items": [
         {
           "id": 18,

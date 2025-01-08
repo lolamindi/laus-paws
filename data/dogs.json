@@ -2,37 +2,37 @@
   "dogs": [
     {
       "id": 0,
-      "dog_name": "Bailey",
+      "dog_name": "BAILEY",
       "review": "Staying with Laura and Lila is great! I love playing with Lila and running with her in the fields near her house, it's like being at home with my family but better.",
       "image": "/assets/img/review-dog2.jpg"
     },
     {
       "id": 1,
-      "dog_name": "Zoe",
+      "dog_name": "ZOE",
       "review": "Laura takes good care of me and I have lots of fun playing with Lila. Going to Laura's house to stay is my favourite!",
       "image": "/assets/img/review-dog1.jpg"
     },
     {
       "id": 2,
-      "dog_name": "Griff",
+      "dog_name": "GRIFF",
       "review": "Laura's house has lots of places for me to snuggle down and get comfortable, and she even lets me sleep on her bed if I've been a good boy.",
       "image": "/assets/img/review-dog4.jpg"
     },
     {
       "id": 3,
-      "dog_name": "Tilly",
+      "dog_name": "TILLY",
       "review": "Lila and I have such an amazing time together, staying at Laura's is like a home from home!",
       "image": "/assets/img/review-dog5.jpg"
     },
     {
       "id": 4,
-      "dog_name": "Coco",
+      "dog_name": "COCO",
       "review": "Whether I stay overnight or for the day, Laura's house is always special. Lila and I get up to mischief sometimes but Laura says she misses me when I'm not around.",
       "image": "/assets/img/review-dog3.jpg"
     },
     {
       "id": 6,
-      "dog_name": "Eddie",
+      "dog_name": "EDDIE",
       "review": "Laura's house is near my favourite woods where there are lots of squirrels to chase and sticks to find. I love getting to stay there when my mum is away.",
       "image": "/assets/img/review-dog6.jpg"
     }
