@@ -27,7 +27,7 @@ const FAQSection = ({ heading, items }) => {
   return (
     <div className="mb-8">
       <h2 className="text-xl font-bold mb-4">{heading}</h2>
-      <div className="bg-[#f9f5f3] shadow-lg rounded-lg">
+      <div className="bg-pink-50 shadow-lg rounded-lg">
         {items.map((item, index) => (
           <FAQItem
             key={item.id}
