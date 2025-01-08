@@ -13,7 +13,7 @@ const FAQItem = ({ question, answer, isOpen, onClick }) => (
         +
       </span>
     </button>
-    {isOpen && <p className="p-4 bg-white text-gray-700">{answer}</p>}
+    {isOpen && <p className="p-4 bg-white text-gray-800">{answer}</p>}
   </div>
 );
 
