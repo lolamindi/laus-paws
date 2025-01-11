@@ -8,7 +8,7 @@ export default function SocialNavBar() {
     <Link href="/about">ABOUT</Link>
   </li>
   <li>
-    <Link href="/about">PRICES</Link>
+    <Link href="/prices">PRICES</Link>
   </li>
   <li>
     <Link href="/faqs">FAQs</Link>

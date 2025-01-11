@@ -3,7 +3,7 @@ import { useState } from "react";
 import faqData from "../../../data/faqs.json";
 
 const FAQItem = ({ question, answer, isOpen, onClick }) => (
-  <div className="border-b border-gray-400">
+  <div className="border border-pink-700">
     <button
       onClick={onClick}
       className="flex justify-between items-center w-full text-left p-4 text-lg font-medium"
@@ -13,7 +13,7 @@ const FAQItem = ({ question, answer, isOpen, onClick }) => (
         +
       </span>
     </button>
-    {isOpen && <p className="p-4 bg-white text-gray-700">{answer}</p>}
+    {isOpen && <p className="p-4 bg-white border-t border-pink-700 text-gray-800">{answer}</p>}
   </div>
 );
 
@@ -25,9 +25,9 @@ const FAQSection = ({ heading, items }) => {
   };
 
   return (
-    <div className="mb-8">
+    <div className="mb-12">
       <h2 className="text-xl font-bold mb-4">{heading}</h2>
-      <div className="bg-[#f9f5f3] shadow-lg rounded-lg">
+      <div className="bg-pink-50 border border-pink-700">
         {items.map((item, index) => (
           <FAQItem
             key={item.id}
