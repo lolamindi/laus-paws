@@ -48,7 +48,7 @@ export default function FAQs() {
       <section className="top-4 p-8 text-gray-800 max-w-5xl">
         <h1 className="text-2xl font-bold pb-2 pt-4">FREQUENTLY ASKED QUESTIONS</h1>
         <p className="text-lg mb-12">
-          Curious to know more about Lau's Paws? Whether you're wondering about our vaccination requirements or want to find out about pricing, here are the answers to some of the questions we get asked most often:
+          Curious to know more about Lau's Paws? Whether you're wondering about our vaccination requirements or want to find out about pricing, here are the answers to some of the questions we're asked most often:
         </p>
         <section className="mx-auto max-w-4xl">
         {faqData.sections.map((section) => (
