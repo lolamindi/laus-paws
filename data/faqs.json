@@ -12,7 +12,7 @@
               "text": "contact page",
               "href": "/contact"
             },
-            ". Alternatively, you can make a booking via WhatsApp or with a Facebook message."
+            ". Alternatively, you can get in touch on WhatsApp. Please be aware, however, that Lau's Paws enquiries will not be answered after 8 pm"
           ]
         },
         {
@@ -139,7 +139,13 @@
         {
           "id": 19,
           "question": "Do you offer discounts for longer stays or regular bookings?",
-          "answer": "Stays for longer than a 24-hour period are charged at the reduced day rate rather than the usual overnight rate. If you would like to schedule a regular booking please get in touch with more details to see if we can come to an agreement."
+          "answer": ["Stays for longer than a 24-hour period are charged at the reduced day rate rather than the usual overnight rate. If you would like to schedule a regular booking please ",
+          {
+            "text": "get in touch",
+            "href": "/contact"
+          },
+          " with more details to see if we can come to an agreement."
+      ]
         },
         {
           "id": 20,
@@ -149,9 +155,16 @@
         {
           "id": 21,
           "question": "Is there a discount for two dogs from the same household?",
-          "answer": "Yes, there is a reduced rate for two dogs from the same household staying overnight at the same time."
-        }
+          "answer": [ "Yes, there is a reduced rate for two dogs from the same household staying overnight at the same time. Please consult our ",
+          {
+            "text": "prices page",
+            "href": "/prices"
+          },
+        " for more information."
       ]
     }
   ]
+    }
+  ]
 }
+  
