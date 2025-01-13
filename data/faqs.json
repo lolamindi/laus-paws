@@ -6,7 +6,14 @@
         {
           "id": 0,
           "question": "How can I book a stay with Lau's Paws?",
-          "answer": "The best way to get in touch is via the form on our contact page. Alternatively, you can make a booking via WhatsApp or with a Facebook message."
+          "answer": [
+            "The best way to get in touch is via the form on our ",
+            {
+              "text": "contact page",
+              "href": "/contact"
+            },
+            ". Alternatively, you can make a booking via WhatsApp or with a Facebook message."
+          ]
         },
         {
           "id": 1,
@@ -41,7 +48,13 @@
         {
           "id": 6,
           "question": "Do you accept large breed dogs?",
-          "answer": "No, we only accept small to medium-sized dogs. If you're unsure whether your breed qualifies as medium, please get in touch to check."
+          "answer": [ "No, we only accept small to medium-sized dogs. If you're unsure whether your breed qualifies as medium, please ",
+          {
+            "text": "get in touch",
+            "href": "/contact"
+          },
+          " to check."
+      ]
         },
         {
           "id": 7,
@@ -115,7 +128,13 @@
         {
           "id": 18,
           "question": "What are you rates for boarding?",
-          "answer": "A full list of the current Lau's Paws rates can be found on the Prices page of this website."
+          "answer": ["A full list of the current Lau's Paws rates can be found on our ",
+          
+          {
+            "text": "prices page.",
+            "href": "/prices"
+          }
+        ]
         },
         {
           "id": 19,
