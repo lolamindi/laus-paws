@@ -12,7 +12,7 @@ export default function DogReviewCard({ dog }) {
           alt={`small dog called ${dog.dog_name}`}
         />
         <span className="font-semibold text-lg text-gray-800">{dog.dog_name}</span>
-        <blockquote className="w-[325px] border-t-2 pt-1 border-pink-700 text-gray-900">
+        <blockquote className="w-[325px] border-t-2 pt-1 border-pink-700 text-gray-800">
           &ldquo;{dog.review}&rdquo;
         </blockquote>
       </article>

@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import facebook from "../../../public/assets/img/facebook.png";
 import instagram from "../../../public/assets/img/instagram.png";
 import whatsapp from "../../../public/assets/img/whatsapp.png";
 
@@ -9,16 +8,6 @@ export default function SocialNavBar() {
   return (
     <nav>
       <ul className="flex gap-4">
-        <li>
-          <Link href="https://www.facebook.com/LausPawsIbstock/" target="_blank">
-            <Image
-              src={facebook}
-              width={28}
-              height={28}
-              alt="facebook icon"
-            />
-          </Link>
-        </li>
         <li>
           <Link href="https://www.instagram.com/laus_paws/" target="_blank">
             <Image
