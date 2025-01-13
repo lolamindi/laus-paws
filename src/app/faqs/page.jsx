@@ -9,7 +9,7 @@ const FAQItem = ({ question, answer, isOpen, onClick }) => {
         typeof part === "string" ? (
           part
         ) : (
-          <a key={index} href={part.href} className="text-pink-800">
+          <a key={index} href={part.href} className="text-pink-8feat00">
             {part.text}
           </a>
         )
