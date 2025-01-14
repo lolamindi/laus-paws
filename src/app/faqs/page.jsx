@@ -9,7 +9,7 @@ const FAQItem = ({ question, answer, isOpen, onClick }) => {
         typeof part === "string" ? (
           part
         ) : (
-          <a key={index} href={part.href} className="text-pink-800">
+          <a key={index} href={part.href} className="text-pink-700 font-bold">
             {part.text}
           </a>
         )
@@ -66,7 +66,7 @@ const FAQSection = ({ heading, items }) => {
 export default function FAQs() {
   return (
     <main className="relative flex justify-center min-h-screen bg-[#edd4cd]">
-      <section className="top-4 p-8 text-gray-800 max-w-5xl">
+      <section className="top-4 p-8 text-gray-900 max-w-5xl">
         <h1 className="text-2xl font-bold pb-2 pt-4">FREQUENTLY ASKED QUESTIONS</h1>
         <p className="text-lg mb-12">
           Curious to know more about Lau's Paws? Whether you're wondering about our vaccination requirements or want to find out about pricing, here are the answers to some of the questions we're asked most often:
