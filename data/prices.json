@@ -1,0 +1,28 @@
+{
+  "pricing": [
+    {
+      "service": "Daytime Stay",
+      "duration": "Up to 12 hours",
+      "price": "£30",
+      "details": "Includes playtime, walks, and feeding."
+    },
+    {
+      "service": "Overnight Stay",
+      "duration": "12 hours (e.g., 8 pm to 8 am)",
+      "price": "£40",
+      "details": "Includes feeding and overnight supervision."
+    },
+    {
+      "service": "Full 24-Hour Period",
+      "duration": "24 hours (e.g., 7 pm to 7 am)",
+      "price": "£50",
+      "details": "Includes playtime, walks, feeding, and overnight supervision."
+    },
+    {
+      "service": "Weekly Care Package",
+      "duration": "7 days/6 nights",
+      "price": "£300",
+      "details": "Covering a full week of round-the-clock care. Save £££ on the regular full day rates!"
+    }
+  ]
+}
