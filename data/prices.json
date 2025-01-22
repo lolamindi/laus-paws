@@ -1,28 +1,38 @@
 {
-  "pricing": [
+  "sections": [
     {
-      "service": "Daytime Stay",
-      "duration": "Up to 12 hours",
-      "price": "£30",
-      "details": "Includes playtime, walks, and feeding."
+      "heading": "DAYCARE 8am to 6pm",
+      "items": [
+        {
+          "id": 0,
+          "duration": "Half day 0-4 hours",
+          "price": "£20",
+          "details": "Includes feeding, playtime, and care."
+        },
+        {
+          "id": 1,
+          "duration": "Full day 4-8 hours",
+          "price": "£25",
+          "details": "Includes feeding, up to two walks, playtime, and care."
+        }
+      ]
     },
     {
-      "service": "Overnight Stay",
-      "duration": "12 hours (e.g., 8 pm to 8 am)",
-      "price": "£40",
-      "details": "Includes feeding and overnight supervision."
-    },
-    {
-      "service": "Full 24-Hour Period",
-      "duration": "24 hours (e.g., 7 pm to 7 am)",
-      "price": "£50",
-      "details": "Includes playtime, walks, feeding, and overnight supervision."
-    },
-    {
-      "service": "Weekly Care Package",
-      "duration": "7 days/6 nights",
-      "price": "£300",
-      "details": "Covering a full week of round-the-clock care. Save £££ on the regular full day rates!"
+      "heading": "OVERNIGHT BOARDING",
+      "items": [
+        {
+          "id": 2,
+          "duration": "Up to 24 hours",
+          "price": "£30",
+          "details": "Includes round-the-clock care, feeding, playtime and walks."
+        },
+        {
+          "id": 3,
+          "duration": "Extended period (longer than 24 hours)",
+          "price": "£25 per 24-hour period",
+          "details": ""
+        }
+      ]
     }
   ]
 }
