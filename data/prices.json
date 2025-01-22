@@ -5,33 +5,50 @@
       "items": [
         {
           "id": 0,
-          "duration": "Half day 0-4 hours",
+          "service": "Half day 0-4 hours",
           "price": "£20",
-          "details": "Includes feeding, playtime, and care."
+          "details": "Ensure your dog is in good hands while you're on-the-go with this convenient half-day care option."
         },
         {
           "id": 1,
-          "duration": "Full day 4-8 hours",
+          "service": "Full day 4-8 hours",
           "price": "£25",
-          "details": "Includes feeding, up to two walks, playtime, and care."
+          "details": "Whether you're at work, out and about, or simply have a packed schedule, this full day option is a life-saver for busy dog mums and dads."
         }
       ]
     },
     {
-      "heading": "OVERNIGHT BOARDING",
+      "heading": "OVERNIGHT & HOLIDAY BOARDING",
       "items": [
         {
           "id": 2,
-          "duration": "Up to 24 hours",
+          "service": "Up to 24 hours",
           "price": "£30",
-          "details": "Includes round-the-clock care, feeding, playtime and walks."
+          "details": "Ensure round-the-clock care for your dog when you're out late or away for the night. This rate applies to all bookings that run past the 6 pm cut-off point for daycare rates."
         },
         {
           "id": 3,
-          "duration": "Extended period (longer than 24 hours)",
+          "service": "Extended period (longer than 24 hours)",
           "price": "£25 per 24-hour period",
-          "details": ""
+          "details": "With a reduced rate for longer bookings, you can rest assured that Lau's Paws will be the ideal home away from home for your dog no matter how long you're away for."
+        },
+        {
+          "heading": "ADDITIONAL CHARGES",
+      "items": [
+        {
+          "id":4 ,
+          "service": "Bank Holidays and New Year's Eve",
+          "price": "1.5 x the usual rate",
+          "details": "Whichever service you need, rates for these special dates incur an extra charge."
+        },
+        {
+          "id": 5,
+          "service": "Christmas Day and New Year's Day",
+          "price": "2 x the usual rate",
+          "details": "On the 25th of December and the 1st of January, Lau's Paws reserves the right to charge twice the usual rate, whether for daycare or overnight boarding."
         }
+      ]
+    }
       ]
     }
   ]
