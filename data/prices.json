@@ -33,7 +33,7 @@
           "details": "With a reduced rate for longer bookings, you can rest assured that Lau's Paws will be the ideal home away from home for your dog no matter how long you're away for."
         },
         {
-          "heading": "ADDITIONAL CHARGES",
+          "heading": "ADDITIONAL CHARGES & DISCOUNTS",
       "items": [
         {
           "id":4 ,
@@ -46,6 +46,12 @@
           "service": "Christmas Day and New Year's Day",
           "price": "2 x the usual rate",
           "details": "On the 25th of December and the 1st of January, Lau's Paws reserves the right to charge twice the usual rate, whether for daycare or overnight boarding."
+        },
+        {
+          "id": 6,
+          "service": "Multiple Dogs",
+          "price": "20% discount",
+          "details": "Bookings for two or more dogs from the same household are entitled to a 20% discount on the usual daycare and overnight rates."
         }
       ]
     }

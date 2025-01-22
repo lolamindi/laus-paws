@@ -139,7 +139,7 @@
         {
           "id": 19,
           "question": "Do you offer discounts for longer stays or regular bookings?",
-          "answer": ["Stays for longer than a 24-hour period are charged at the reduced day rate rather than the usual overnight rate. If you would like to schedule a regular booking please ",
+          "answer": ["Stays for longer than a 24-hour period are charged at a reduced rate rather than the usual overnight rate. If you would like to schedule a regular booking please ",
           {
             "text": "get in touch",
             "href": "/contact"
