@@ -24,7 +24,7 @@
           "id": 2,
           "service": "Single day (up to 24 hours)",
           "price": "£30",
-          "details": "Ensure round-the-clock care for your dog when you're out late or away for the night. This rate applies to all bookings that run past the 6pm cut-off point for daycare rates or exceed eight hours."
+          "details": "Ensure round-the-clock care for your dog when you're out late or away for the night. This rate applies to all bookings of more than eight hours as well as those that run past the 6pm cut-off point."
         },
         {
           "id": 3,
