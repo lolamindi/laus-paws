@@ -17,18 +17,18 @@ export default function Prices() {
             <div className="">
               <table className="w-full border-2 border-pink-700 bg-white">
                 <thead>
-                  <tr className="bg-pink-50 text-pink-700">
-                    <th className="p-4 border border-pink-700 text-left w-[20%]">Service</th>
-                    <th className="p-4 border border-pink-700 text-left w-[15%]">Price</th>
-                    <th className="p-4 border border-pink-700 text-left w-[65%]">Details</th>
+                  <tr className="bg-pink-100 text-pink-700">
+                    <th className="p-4 border-2 border-pink-700 text-left w-[20%]">SERVICE</th>
+                    <th className="p-4 border-2 border-pink-700 text-left w-[15%]">PRICE</th>
+                    <th className="p-4 border-2 border-pink-700 text-left w-[65%]">DETAILS</th>
                   </tr>
                 </thead>
                 <tbody>
                   {section.items?.map((item, itemIndex) => (
                     <tr key={item.id || itemIndex}>
-                      <td className="p-4 border border-pink-700 font-medium ">{item.service}</td>
-                      <td className="p-4 border border-pink-700 text-pink-700 font-bold">{item.price}</td>
-                      <td className="p-4 border border-pink-700">{item.details}</td>
+                      <td className="p-4 border-2 border-pink-700 font-medium ">{item.service}</td>
+                      <td className="p-4 border-2 border-pink-700 font-medium">{item.price}</td>
+                      <td className="p-4 border-2 border-pink-700">{item.details}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -52,9 +52,9 @@ export default function Prices() {
                 <tbody>
                   {pricesData.specialRates.map((rate, rateIndex) => (
                     <tr key={rate.id || rateIndex} className="">
-                      <td className="p-4 border border-pink-700 font-medium w-1/4">{rate.service}</td>
-                      <td className="p-4 border border-pink-700 text-pink-700 font-bold w-1/4">{rate.price}</td>
-                      <td className="p-4 border border-pink-700 w-1/2">{rate.details}</td>
+                      <td className="p-4 border border-pink-700 font-medium">{rate.service}</td>
+                      <td className="p-4 border border-pink-700 text-pink-700 font-bold">{rate.price}</td>
+                      <td className="p-4 border border-pink-700">{rate.details}</td>
                     </tr>
                   ))}
                 </tbody>
